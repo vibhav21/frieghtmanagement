@@ -1,0 +1,3 @@
+cd api
+venv\Scripts\activate.bat
+flask run --no-reload

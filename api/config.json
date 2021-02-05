@@ -1,0 +1,43 @@
+    { "Topic": "Xor/Test",
+      "mongo_configuration": {
+        "database_name": "frieghtmanagement",
+        "collection_names": ["telemetry_data","user","truckData"]
+      },
+      "mqtt_configuration":
+      {
+        "server_url": "broker.hivemq.com",
+        "server_port": 1883
+      },
+    "server_configuration":
+    {
+        "server_url": "localhost",
+        "server_port": 5000
+    },
+    "parameters":
+    [
+      {
+            "parameter_name": "temperature",
+            "parameter_min_value": 20.00,
+            "parameter_max_value": 40.00,
+            "parameter_unit": "F"
+      },
+      {
+            "parameter_name": "voltage",
+            "parameter_min_value": 10.5,
+            "parameter_max_value": 15,
+            "parameter_unit": "V"
+      },
+      {
+        "parameter_name":"time"
+      },
+      {
+            "parameter_name": "location",
+            "longitude_min_value": -180,
+            "longitude_max_value": 180,
+            "latitude_min_value": -90,
+            "latitude_max_value": 90,
+            "parameter_unit": ""
+      }
+    ],
+    "mqtt_data_freq":10
+}

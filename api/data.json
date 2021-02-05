@@ -1,0 +1,80 @@
+[
+  {
+    "_id": {
+      "$oid": "601cd746d5c9409f37a4aedc"
+    },
+    "temperature": "27.571532666498747 F",
+    "truck_id": 5,
+    "voltage": "11.802783203373005 V",
+    "time": "Fri Feb  5 10:57:33 2021",
+    "location": {
+      "longitude": "146.86774094556773",
+      "latitude": "-35.589680238029665"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "601cd73bd5c9409f37a4aec4"
+    },
+    "temperature": "33.59788580778723 F",
+    "truck_id": 5,
+    "voltage": "11.966759428208702 V",
+    "time": "Fri Feb  5 10:57:23 2021",
+    "location": {
+      "longitude": "177.34013857000832",
+      "latitude": "-53.5531131879053"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "601cd731d5c9409f37a4aeac"
+    },
+    "temperature": "33.86692063267676 F",
+    "truck_id": 5,
+    "voltage": "14.690687232621546 V",
+    "time": "Fri Feb  5 10:57:13 2021",
+    "location": {
+      "longitude": "-19.024475517687108",
+      "latitude": "-50.843852986275564"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "601cd727d5c9409f37a4ae94"
+    },
+    "temperature": "33.603685198593055 F",
+    "truck_id": 5,
+    "voltage": "11.086187884429977 V",
+    "time": "Fri Feb  5 10:57:03 2021",
+    "location": {
+      "longitude": "129.18075420234777",
+      "latitude": "-46.328760247249264"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "601cd71dd5c9409f37a4ae7e"
+    },
+    "temperature": "34.068038701548645 F",
+    "truck_id": 5,
+    "voltage": "12.676753952378125 V",
+    "time": "Fri Feb  5 10:56:53 2021",
+    "location": {
+      "longitude": "162.58832723524955",
+      "latitude": "-68.11477398835484"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "601cd713d5c9409f37a4ae66"
+    },
+    "temperature": "28.062967236418075 F",
+    "truck_id": 5,
+    "voltage": "11.31642308976523 V",
+    "time": "Fri Feb  5 10:56:43 2021",
+    "location": {
+      "longitude": "-162.32244971062568",
+      "latitude": "33.252083777185405"
+    }
+  }
+]
